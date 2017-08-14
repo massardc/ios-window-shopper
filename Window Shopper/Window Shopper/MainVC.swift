@@ -2,7 +2,6 @@
 //  ViewController.swift
 //  Window Shopper
 //
-//  Created by School on 14/08/2017.
 //  Copyright © 2017 ClementM. All rights reserved.
 //
 
